@@ -1,4 +1,3 @@
-# psbt_rust
 # Rust PSBT: Secure Bitcoin Transactions
 
 **Rust PSBT** is an implementation of the **Partially Signed Bitcoin Transaction (PSBT)** format. It adheres to the specifications outlined in **BIP-174** and **PSBT version 2** as defined in **BIP-370**.
